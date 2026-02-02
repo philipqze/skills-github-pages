@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: ovo je moj blog !
+
 ---
+***bold italic text*** 
